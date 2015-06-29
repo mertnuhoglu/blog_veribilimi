@@ -10,3 +10,8 @@ github_username:  mertnuhoglu
 
 # Build settings
 markdown: kramdown
+
+analytics :
+provider : google 
+google : 
+    tracking_id : 'UA-20351819-8'
