@@ -6,13 +6,17 @@
 </description>
     <link>http://datascience.mertnuhoglu.com/</link>
     <atom:link href="http://datascience.mertnuhoglu.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 10 Jul 2015 10:19:53 +0300</pubDate>
-    <lastBuildDate>Fri, 10 Jul 2015 10:19:53 +0300</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2015 10:30:12 +0300</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2015 10:30:12 +0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Presentation: Introduction to Data Analysis using R with Examples</title>
         <description>&lt;p&gt;Here is the presentation that I gave for &lt;a href=&quot;http://istanbulcoders.org&quot;&gt;IstanbulCoders group&lt;/a&gt; in March 2015.&lt;/p&gt;
+
+&lt;p&gt;To view in full screen go to: http://mertnuhoglu.github.io/data_analysis_istanbulcoders/index.html&lt;/p&gt;
+
+&lt;p&gt;Source in &lt;a href=&quot;https://github.com/mertnuhoglu/data_analysis_istanbulcoders&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
 
 &lt;iframe id=&quot;html5slides&quot; src=&quot;http://mertnuhoglu.github.io/data_analysis_istanbulcoders/&quot; width=&quot;800&quot; height=&quot;600&quot; scrolling=&quot;no&quot; align=&quot;middle&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
