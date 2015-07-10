@@ -1,0 +1,3 @@
+# <prefix>:<remote address/name>:<remote branch>
+#bar.st:../bar:master
+_site:git@github.com:mertnuhoglu/blog_datascience.git:gh-pages
