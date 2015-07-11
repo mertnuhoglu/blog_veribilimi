@@ -6,19 +6,19 @@
 </description>
     <link>http://veribilimi.mertnuhoglu.com/</link>
     <atom:link href="http://veribilimi.mertnuhoglu.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 11 Jul 2015 17:08:07 +0300</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2015 17:08:07 +0300</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2015 17:55:53 +0300</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2015 17:55:53 +0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Prezentasyon: Uygulamalarla R ile Veri Analizine Giriş</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://istanbulcoders.org&quot;&gt;IstanbulCoders grubu&lt;/a&gt; için Mart 2015’te İTÜ Teknopark’ta yaptığım sunum.&lt;/p&gt;
 
-&lt;p&gt;Tam ekranda görüntülemek için: &lt;a href=&quot;http://mertnuhoglu.github.io/data_analysis_istanbulcoders/istanbulcoders/turkish.html&quot;&gt;http://mertnuhoglu.github.io/data_analysis_istanbulcoders/istanbulcoders/turkish.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tam ekranda görüntülemek için: &lt;a href=&quot;http://mertnuhoglu.github.io/data_analysis_presentations/istanbulcoders/turkish.html&quot;&gt;http://mertnuhoglu.github.io/data_analysis_presentations/istanbulcoders/turkish.html&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Kaynak kodları: &lt;a href=&quot;https://github.com/mertnuhoglu/data_analysis_istanbulcoders/istanbulcoders&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kaynak kodları: &lt;a href=&quot;https://github.com/mertnuhoglu/data_analysis_presentations/istanbulcoders&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
 
-&lt;iframe id=&quot;html5slides&quot; src=&quot;http://mertnuhoglu.github.io/data_analysis_istanbulcoders/istanbulcoders/turkish.html&quot; width=&quot;800&quot; height=&quot;600&quot; scrolling=&quot;no&quot; align=&quot;middle&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;iframe id=&quot;html5slides&quot; src=&quot;http://mertnuhoglu.github.io/data_analysis_presentations/istanbulcoders/turkish.html&quot; width=&quot;800&quot; height=&quot;600&quot; scrolling=&quot;no&quot; align=&quot;middle&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
 
 </description>
         <pubDate>Fri, 10 Jul 2015 10:15:00 +0300</pubDate>
