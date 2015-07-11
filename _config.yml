@@ -1,32 +1,14 @@
 # Site settings
-title: Data Science Notes
+title: Veri Bilimi Notlarım
 email: mert.nuhoglu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Data science studies and notes
+  Veri bilimi çalışma ve notlarım
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://datascience.mertnuhoglu.com" # the base hostname & protocol for your site
+url: "http://veribilimi.mertnuhoglu.com" # the base hostname & protocol for your site
 twitter_username: mertnuhoglu
 github_username:  mertnuhoglu
 
-exclude: ["blog-datascience-dcb29a0ca101.json"]
 # Build settings
 markdown: kramdown
 
-#analytics :
-#provider : google 
-#google : 
-    #tracking_id : 'UA-20351819-8'
-
-jekyll_ga:
-  service_account_email: '593997725935-0kgq9c2tq0dn2b04g5d4b605c7upnol7@developer.gserviceaccount.com'   # service account email address
-  key_file: privatekey.p12  # service account private key file
-  key_secret: notasecret    # service account private key's password
-  profileID: ga:104501184        # profile ID 
-  start: last month         # Beginning of report
-  end: now                  # End of report
-  metric: ga:pageviews      # Metric code
-  segment:                  # optional
-  filters:                  # optional
-  sort: true                # Sort posts by this metric
-
-google_analytics: 'UA-20351819-8'
+google_analytics: 'UA-20351819-9'
