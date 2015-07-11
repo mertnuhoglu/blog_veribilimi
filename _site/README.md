@@ -1,2 +1,2 @@
-This is the jekyll blog for my personal blog on datascience in http://datascience.mertnuhoglu.com
+Veri bilimi alanındaki yazılarımı paylaştığım kişisel jekyll tabanlı blogum http://vribilimi.mertnuhoglu.com
 
