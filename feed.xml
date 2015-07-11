@@ -6,9 +6,33 @@
 </description>
     <link>http://veribilimi.mertnuhoglu.com/</link>
     <atom:link href="http://veribilimi.mertnuhoglu.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 11 Jul 2015 17:55:53 +0300</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2015 17:55:53 +0300</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2015 18:27:32 +0300</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2015 18:27:32 +0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Prezentasyon: R ile Veri Gazeteciliği</title>
+        <description>&lt;p&gt;&lt;a href=&quot;Verigazeteciligi.com&quot;&gt;Verigazeteciligi.com&lt;/a&gt; tarafından Bahçeşehir Üniversitesinde düzenlenen &lt;a href=&quot;http://www.verigazeteciligi.com/bahcesehir-universitesi-proje-uretimli-veri-gazeteciligi-atolyesi-duzenlendi/&quot;&gt;Proje Üretimli Veri Gazeteciliği Atölyesi &lt;/a&gt; etkinliği için Mayıs 2015’te yaptığım sunum.&lt;/p&gt;
+
+&lt;p&gt;Tam ekranda görüntülemek için: &lt;a href=&quot;http://mertnuhoglu.github.io/data_analysis_presentations/r_verigazeteciligi/&quot;&gt;http://mertnuhoglu.github.io/data_analysis_presentations/r_verigazeteciligi/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kaynak kodları: &lt;a href=&quot;https://github.com/mertnuhoglu/data_analysis_presentations/tree/gh-pages/r_verigazeteciligi&quot;&gt;github&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe id=&quot;html5slides&quot; src=&quot;http://mertnuhoglu.github.io/data_analysis_presentations/r_verigazeteciligi/&quot; width=&quot;800&quot; height=&quot;600&quot; scrolling=&quot;no&quot; align=&quot;middle&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Sat, 11 Jul 2015 10:15:00 +0300</pubDate>
+        <link>http://veribilimi.mertnuhoglu.com/r/examples/presentation/2015/07/11/prezentasyon-r-ile-verigazeteciligi.html</link>
+        <guid isPermaLink="true">http://veribilimi.mertnuhoglu.com/r/examples/presentation/2015/07/11/prezentasyon-r-ile-verigazeteciligi.html</guid>
+        
+        
+        <category>r</category>
+        
+        <category>examples</category>
+        
+        <category>presentation</category>
+        
+      </item>
     
       <item>
         <title>Prezentasyon: Uygulamalarla R ile Veri Analizine Giriş</title>
