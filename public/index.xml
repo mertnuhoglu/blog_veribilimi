@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veri Bilimi Notlarım - Mert Nuhoğlu</title>
+    <link>http://veribilimi.mertnuhoglu.com/index.xml</link>
+    <description>Recent content on Veri Bilimi Notlarım - Mert Nuhoğlu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://veribilimi.mertnuhoglu.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prezentasyon: R ile Veri Gazeteciliği</title>
+      <link>http://veribilimi.mertnuhoglu.com/2015/07/11/prezentasyon-r-ile-verigazeteciligi/</link>
+      <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://veribilimi.mertnuhoglu.com/2015/07/11/prezentasyon-r-ile-verigazeteciligi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;Verigazeteciligi.com&#34;&gt;Verigazeteciligi.com&lt;/a&gt; tarafından Bahçeşehir Üniversitesinde düzenlenen &lt;a href=&#34;http://www.verigazeteciligi.com/bahcesehir-universitesi-proje-uretimli-veri-gazeteciligi-atolyesi-duzenlendi/&#34;&gt;Proje Üretimli Veri Gazeteciliği Atölyesi &lt;/a&gt; etkinliği için Mayıs 2015&amp;rsquo;te yaptığım sunum.&lt;/p&gt;
+
+&lt;p&gt;Tam ekranda görüntülemek için: &lt;a href=&#34;http://mertnuhoglu.github.io/data_analysis_presentations/r_verigazeteciligi/&#34;&gt;http://mertnuhoglu.github.io/data_analysis_presentations/r_verigazeteciligi/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kaynak kodları: &lt;a href=&#34;https://github.com/mertnuhoglu/data_analysis_presentations/tree/gh-pages/r_verigazeteciligi&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe id=&#34;html5slides&#34; src=&#34;http://mertnuhoglu.github.io/data_analysis_presentations/r_verigazeteciligi/&#34; width=&#34;800&#34; height=&#34;600&#34; scrolling=&#34;no&#34; align=&#34;middle&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prezentasyon: Uygulamalarla R ile Veri Analizine Giriş</title>
+      <link>http://veribilimi.mertnuhoglu.com/2015/07/10/prezentasyon-uygulamalarla-r-ile-veri-analizine-giris/</link>
+      <pubDate>Fri, 10 Jul 2015 10:15:00 +0000</pubDate>
+      
+      <guid>http://veribilimi.mertnuhoglu.com/2015/07/10/prezentasyon-uygulamalarla-r-ile-veri-analizine-giris/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://istanbulcoders.org&#34;&gt;IstanbulCoders grubu&lt;/a&gt; için Mart 2015&amp;rsquo;te İTÜ Teknopark&amp;rsquo;ta yaptığım sunum.&lt;/p&gt;
+
+&lt;p&gt;Tam ekranda görüntülemek için: &lt;a href=&#34;http://mertnuhoglu.github.io/data_analysis_presentations/istanbulcoders/turkish.html&#34;&gt;http://mertnuhoglu.github.io/data_analysis_presentations/istanbulcoders/turkish.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kaynak kodları: &lt;a href=&#34;https://github.com/mertnuhoglu/data_analysis_presentations/istanbulcoders&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe id=&#34;html5slides&#34; src=&#34;http://mertnuhoglu.github.io/data_analysis_presentations/istanbulcoders/turkish.html&#34; width=&#34;800&#34; height=&#34;600&#34; scrolling=&#34;no&#34; align=&#34;middle&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
