@@ -1,2 +1,2 @@
-Veri bilimi alanındaki yazılarımı paylaştığım kişisel jekyll tabanlı blogum http://vribilimi.mertnuhoglu.com
+Veri bilimi alanındaki yazılarımı paylaştığım kişisel hugo tabanlı blogum http://veribilimi.mertnuhoglu.com
 
